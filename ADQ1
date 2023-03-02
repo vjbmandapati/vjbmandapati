@@ -1,0 +1,4 @@
+$ cat .git/HEAD
+ref: refs/heads/v3.3
+$ cat .git/refs/heads/v3.3
+6050732e725c68b83c35c873ff8808dff1c406e1
